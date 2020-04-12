@@ -1,0 +1,83 @@
+$ git log --pretty=format:"%h - %an, %ar : %s"
+88c8623 - TalZig, 6 hours ago : now FileCacheManager.h returns information from file after program closed.
+abc4bd3 - yoelsherwin, 10 hours ago : push for update
+4266e91 - yoelsherwin, 29 hours ago : deleted prints
+570d70c - yoelsherwin, 2 days ago : fixed best first
+91155fd - TalZig, 2 days ago : make parallel work great
+8f6b627 - TalZig, 2 days ago : added README.md
+8128666 - TalZig, 2 days ago : removed servers counter
+c122118 - TalZig, 4 days ago : minor changes in AStar.h2
+42bbce1 - TalZig, 4 days ago : minor changes in AStar
+ed7bd5b - TalZig, 4 days ago : minor changes in AStar
+356a8ad - yoelsherwin, 5 days ago : AStar and parallel are now working perfect
+7c3d571 - TalZig, 5 days ago : make limit of 10 servers running together..
+647c3a5 - TalZig, 5 days ago : added deleters for ASTAR and BestFirstSearch stls
+7461cc1 - TalZig, 5 days ago : added deleters for ASTAR and BestFirstSearch stls
+e452f9a - TalZig, 5 days ago : added deleters for ASTAR and BestFirstSearch stls
+9f0d753 - TalZig, 5 days ago : added deleters for ASTAR and BestFirstSearch stls
+8e20496 - TalZig, 5 days ago : Merge remote-tracking branch 'origin/tester' into tester
+09c74f6 - TalZig, 5 days ago : parallel is now working:)
+e53ba14 - yoelsherwin, 5 days ago : fixing client handler
+385c476 - TalZig, 5 days ago : parallel is now working:)
+f1244b5 - TalZig, 5 days ago : Merge remote-tracking branch 'origin/tester' into tester
+64b6087 - TalZig, 5 days ago : parallel is now working:)
+3db2e04 - yoelsherwin, 6 days ago : fixed matrix
+13b5a44 - yoelsherwin, 6 days ago : fixed matrix
+580461d - TalZig, 6 days ago : AStar is now working!!!!
+6f4b798 - TalZig, 6 days ago : deleted prints
+030a2ba - yoelsherwin, 6 days ago : fixed matrix
+9f2b2e1 - TalZig, 6 days ago : lines are now being processed correctly
+3c9a9b0 - yoelsherwin, 6 days ago : fixing reading from client
+486a5d6 - yoelsherwin, 6 days ago : fixing reading from client
+0e7bfbc - yoelsherwin, 6 days ago : fixing reading from client
+429c902 - yoelsherwin, 6 days ago : fixing reading from client
+b8e42bc - yoelsherwin, 6 days ago : fixed blocked points
+1645154 - TalZig, 6 days ago : think that parallelServer work good
+1d74511 - TalZig, 6 days ago : try to make parallelServer work
+cbc09b5 - yoelsherwin, 6 days ago : started impkementing parallel, only copied from serial
+d6b0abc - TalZig, 6 days ago : AStar and BestFirstSearch.h working good!!2
+321fd5b - TalZig, 7 days ago : AStar and BestFirstSearch.h working good!!
+612582e - yoelsherwin, 7 days ago : traceback fixed and tested
+bf3ac8f - TalZig, 7 days ago : fixed DFS and BFS starting state prev
+2f59235 - yoelsherwin, 7 days ago : traceback fixed before test
+7ec3db4 - TalZig, 7 days ago : added costOfTrack to member to state.h, updated BestFirstSearch.h
+efd9917 - TalZig, 7 days ago : fixed minor bugs
+3da2ebd - yoelsherwin, 8 days ago : fixing traceback2
+2259dc5 - TalZig, 8 days ago : updated FileCacheManager.h2
+2a571a2 - TalZig, 8 days ago : updated FileCacheManager.h
+8346842 - yoelsherwin, 8 days ago : fixing traceback
+16dab54 - TalZig, 8 days ago : fixed bfs
+119f6c3 - yoelsherwin, 8 days ago : Merge remote-tracking branch 'origin/tester' into tester
+b0afad6 - yoelsherwin, 8 days ago : fixing matrix methods
+7f6026b - TalZig, 8 days ago : fixed a minor bugs in matrix and Point.cpp
+5405755 - yoelsherwin, 8 days ago : matrix is now created successfully
+0e9a0c0 - yoelsherwin, 9 days ago : fixed vectorOfValues method
+a106b63 - yoelsherwin, 9 days ago : debugging MyClientHandler.h
+177cb90 - yoelsherwin, 9 days ago : build is now finished
+6eb17d7 - TalZig, 9 days ago : fixed generics1
+a94c69f - TalZig, 9 days ago : fixed generics1
+c4685ba - yoelsherwin, 9 days ago : still fixing2
+f4ad827 - yoelsherwin, 9 days ago : still fixing1
+d2543c3 - yoelsherwin, 9 days ago : still fixing
+e4fea16 - TalZig, 9 days ago : updated point and Searchable.h
+0f04a44 - yoelsherwin, 9 days ago : fixing genrics
+0402031 - yoelsherwin, 9 days ago : fixed generics
+cbae779 - TalZig, 9 days ago : updated Point.cpp2
+ada7a1a - TalZig, 9 days ago : added Point object
+704cd87 - yoelsherwin, 11 days ago : fixed everything except for Matrix.h generics
+fd8943f - yoelsherwin, 11 days ago : before tests
+46f8dc0 - yoelsherwin, 11 days ago : finished matrix, almost finished MyClientHandler.h
+a5154b1 - yoelsherwin, 11 days ago : finished matrix, almost finished MyClientHandler.h
+20ebf81 - TalZig, 11 days ago : added tester branch
+8851e6b - yoelsherwin, 11 days ago : working on Matrix.h
+e7562dc - TalZig, 11 days ago : added BFS and DFS
+1b27406 - yoelsherwin, 11 days ago : working on BFS and MyClientHandler.h
+00e5017 - yoelsherwin, 11 days ago : boot works, splitted clienthandler from serial server (open/close is now OK)
+9cc184b - yoelsherwin, 11 days ago : MyClientHandler created
+dfb6f26 - TalZig, 11 days ago : updated SearchSolver.h
+f8521f7 - yoelsherwin, 11 days ago : searcher updated
+95de506 - TalZig, 11 days ago : renamed Searcher.h
+8e34309 - TalZig, 11 days ago : after make BestFirstSearch before checks
+9832312 - TalZig, 12 days ago : Initial commit
+(END)
+
